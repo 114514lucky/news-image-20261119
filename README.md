@@ -15,14 +15,25 @@ Jeffries' likely speakership, and the Kumamoto quake.
 
 ## Run it
 
+Linux / macOS:
+
 ```sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
 
+Windows (PowerShell):
+
+```powershell
+mkdir out -Force
+$env:MAKEFUN_OUTPUT_DIR = "out"
+python main.py
+```
+
 `main.py` (Python 3.13, standard library only, no network) draws the
-1024x1024 PNG itself with a built-in 5x7 bitmap font and writes it to
-`/output/entry.png` (or `$MAKEFUN_OUTPUT_DIR/entry.png`). It is fully
-deterministic: two runs write identical bytes, in about 5 seconds.
+1024x1024 PNG itself with built-in rasterized serif and sans bitmap
+fonts and writes it to `entry.png` inside the output folder
+(`out/entry.png` with the commands above). It is fully deterministic:
+two runs write identical bytes, in about 5 seconds.
 
 ## Sources
 
@@ -53,6 +64,10 @@ Every story was first reported on 19 November 2026:
   NDTV, 19 Nov 2026. Hakeem Jeffries set to be first Black US House
   Speaker — NDTV, 19 Nov 2026. Magnitude 5.7 quake shakes Kumamoto,
   no tsunami warning — The Japan Times, 19 Nov 2026.
+
+The image carries 42 stories in total; the 36 briefs beyond the six
+above were each checked against 19 November reporting (Reuters, AP,
+AFP, BBC, Al Jazeera, NDTV, Japan Times and others).
 
 ---
 

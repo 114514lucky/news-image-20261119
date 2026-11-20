@@ -18,6 +18,7 @@ FONT_HEAD = {' ': (8, 0, 0, 0, ''), '!': (11, 11, 22, -22, 'wP8A4D8A+A8A/QJAvwDA
 FONT_HEAD2 = {' ': (6, 0, 0, 0, ''), '!': (9, 9, 17, -17, '4A9APwD9APQDwA8ALwC8APABwAcAHgA4ANAAAAAALwD+AfgHwAsA'), '"': (14, 14, 17, -17, 'wA9+APzQB4ALPQC4wANABzwAcMACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'), '#': (13, 13, 17, -17, 'AB60ADjQAfCAA8ACD0ALPPj//5u++hrwgAPAAw8ACzzg//9vvvpq8IADwAMPAAs8AB2wAHjQAgA='), '$': (13, 13, 21, -19, 'ADAAAMAAAOT/AvitD/QwNPDDwMAPAwD+DQD0vwDA/y8A+P8DAP4vALD/AMDwwwCDDwcMPiwwvPDb/kD6bwAADAAAMAAA'), '%': (26, 26, 17, -17, 'AP0CAPAAAPj5AMADAMALLwAeAAB98AOwAADQBz/AAwAAfPADHgAAwAsvtAAAAPj5wAMAAAD9Ag/4CwAAAHTw9gMAAMBCD30AAAAP+MAHAAB4gA+8AADQAvjABwAAD0APfQAAOADw9gMA0AEA+AsA'), '&': (22, 22, 17, -17, 'AOR/AAAA0JsvAAAAP/ADAADwAz8AAAA/8AMAAPCLLwAAAP2/AAAAwP8A/wtA/y/AHwD9+A/8APAH/dMLQD9A/z4A9APQ/wJAPwDwHwDwCwD+BwD9V77/AgD5v8D/AQ=='), "'": (7, 7, 17, -17, '8AP8AD5AC9ACcAAAAAAAAAAAAAAAAAAAAAAAAAAA'), '(': (9, 9, 24, -18, 'AIAA4ALgA+ADwAuAHwA/AP0A+APgC8AvAL8A/ALwC4AvAP4A9APADwB+APACQA8A+ABACwAg'), ')': (9, 9, 24, -18, 'CADwAAAfAPQAwA8AfgD0AsAPAD8A/AHwB8AfAH8A/AHwB8APAD8AvQD4AfAD0APAB8ADAAIA'), '*': (13, 13, 17, -17, 'APwAgOCCQE/HB/7dL5D/G0D+b4B/9ws9HR8guCAA8AMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA='), '+': (15, 15, 15, -15, 'AOABAAB4AAAAHgAAgAcAAOABAP7//4H//38AgAcAAOABAAB4AAAAHgAAQAcAAAAAAAAAAAAAAAAA'), ',': (6, 7, 8, -4, '9AH/gX+AH8ADuMALKAA='), '-': (9, 9, 7, -7, '/L/w/wIAAAAAAAAAAAAAAA=='), '.': (6, 7, 4, -4, '8AL+wD/ACw=='), '/': (7, 9, 17, -17, 'ANABwAMACwAeADwAsADgAMADQAsADgA8AHQA4ADAA0AHAA4ALAAA'), '0': (13, 13, 17, -17, 'AP4CAH8/AD/0A/3AH/gDv/AP/MMv4A+/gD/8Av7wC/jDL+AP/8A/+AO/0A/8AT/0A/D3AwD+AgA='), '1': (13, 13, 17, -17, 'APACAPgLAP0vACy/AAD8AgDwCwDALwAAvwAA/AIA8AsAwC8AAL8AAPwCAPALAMAvAED/AfD/vwA='), '2': (13, 13, 17, -17, '4P8C0Jd/QAP4Aw3AHxAAvwAA/AEA9AMA4AsA0A8AwA8AwA8AwAsAwAcAwAcAgP//D///P/z//wA='), '3': (13, 13, 17, -17, '4P8C0Jd/QAP8Aw3QHxBAPwAA/gAA/QHAvwAA+h8AAP0BAPAPAIA/CAD+cAD8wwL0B2/5C+T/BgA='), '4': (13, 13, 17, -17, 'AEA/AAD/AAD+AwD8DwC8PwA4/gCw+APw4A/QgT/AAv6AA/hDr/pv/v//+v//CwD4AwDgDwCAPwA='), '5': (13, 13, 17, -17, '8P8/wP//AP//AhwAAHAAAMABAAAHAAD8vwGw5T8AAPwCAPAPAIA/CAD+cAD8wwL0B2/5C+T/BgA='), '6': (13, 13, 17, -17, 'APkvAL71AP1AA/wBDPQDEOAPAMAvAAD//gL86z/wC/zDL+APv4A/+AP+0A/4A3/wC/DnDwD9CwA='), '7': (13, 13, 17, -17, '+P//4f//g///Cw4AHSQAPAAAdAAA8AAA0AIAwAcAQA8AAB8AAD4AALwAAPgAAPADAOAHAMAPAAA='), '8': (13, 13, 17, -17, 'QP8HwG++QD/wB/7AL/gDv9AP/AF/9APg/wLg2y/QD/zBL+APf0A//AH98Av4gz/wC/zmD4D/BwA='), '9': (13, 13, 17, -17, 'QP8CwG8/gD/0A7/AH/wBv/QH/MMv4A//gD/wr/8A/v4DAPAPAMAvBAB/oAD9gAP8AW75AuS/AAA='), ':': (9, 9, 12, -12, 'wAvAPwD/APACAAAAAAAAAAAAwAvAPwD/APAC'), ';': (9, 9, 16, -12, 'wAuAPwD+APACAAAAAAAAAAAA0AfAfwD/AeAHAA8ALgAuAAoA'), '<': (15, 15, 15, -15, 'AAAABgAA+AEA4AsAgC8AAL4AAPgCAIAPAACALwAAAL4AAAD4AgAA4AsAAIAfAAAABgAAAAAAAAAA'), '=': (15, 15, 12, -12, '+P//B/7//wEAAAAAAAAAAAAAAP7//4H//38AAAAAAAAAAAAAAAAAAAAAAAAA'), '>': (15, 15, 15, -15, 'GAAAAH4AAAD9AQAA9AcAANAfAABAvgAAAH0AAOQLANAvAEB/AAD9AQDgBwAAGAAAAAAAAAAAAAAA'), '?': (13, 13, 17, -17, '4P8C0JZ/QAP4Aw3QHwAAfwAA/QAA+AMA/QMA/gEAuAAA0AEAAAcAAAAAAPgAAPQLANAvAAA+AAA='), '@': (24, 24, 22, -17, 'AADk/wYAAEC/Vb4AAPACAPADAHwAAMALAB8AAAAPgAsAAAAvwANA/gMu4AL0+gM+8AE99AM+9EAP+AIu9MAP/AEfuMAL/AAPuOAH/YAH+OAHvsAC9OALv7AA9ND//x4A8IIv/QIA0AMAAAAAwA8AACQAAD8AAA8AAPhb+QIAAED+GwAA'), 'A': (19, 19, 17, -17, 'AIB/AAAA8D8AAAD9DwAAwPsLAABw/AMAAA7/AQDAQv8AAHTAPwAADuAvAMAC9A8A9P//BwBfVf4CwAEA/wA4AMB/AAsA0D/QAQD0H/4HwP8v'), 'B': (17, 17, 18, -17, '/v//AoD/5X8A/QL8A/QL8B/QL8A/QL8A/wD9Av4A9P+/ANB/5S9AvwD9A/0C8B/0C4C/0C8A/kK/APwH/QLwD/hf+Q/+//8GAAAAAAA='), 'C': (19, 19, 17, -17, 'AJD/awCA/1Z+APgHABxAvwAAC/APAIAC/QMAAIC/AAAA4C8AAAD4BwAAAP4CAACAvwAAANA/AAAE8A8AQAP0CwDgAPgLACwA9G/lCwCQ/2sA'), 'D': (19, 19, 18, -17, '/v+/AQD0X/4LAP0C+AtAvwD8B9AvAP0D9AsA/wD9AsB/QL8A8B/QLwD4B/QLAP4B/QLAf0C/APAP0C8A/AP0C0B/AP0C8AtA/5W/AP7//wIAAAAAAAA='), 'E': (17, 17, 17, -17, '/v//P4D/VfUA/QJAA/QLAA3QLwAQQL8AAAD9AigA9AuwAND//wJA/1ULAP0CKAD0CwAA0C8AgEC/AEAD/QIADvhfVT7+////AA=='), 'F': (16, 16, 17, -17, '/v//L+B/VS7QLwAs0C8AKNAvACjQLwAA0C/AAdAvwAHQ//8B0H/VAdAvwAHQL4AA0C8AANAvAADQLwAA4C8AAP3/BwA='), 'G': (20, 20, 17, -17, 'AJD/bwAA/Vv5B0B/AIAH0C8AAAfwDwAAB/QPAAAA+AsAAAD4CwAAAPgHAAAA+AtA/7/4CwD0D/QPAPAP8A8A8A/QLwDwD0C/APAPAP1b+Q8AkP9vAA=='), 'H': (20, 20, 17, -17, '/v+D///gLwD4C9AvAPQL0C8A9AvQLwD0C9AvAPQL0C8A9AvQLwD0C9D///8L0H9V+QvQLwD0C9AvAPQL0C8A9AvQLwD0C9AvAPQL4C8A+Av+/4P//w=='), 'I': (10, 10, 17, -17, '/P8D/APAPwD8A8A/APwDwD8A/APAPwD8A8A/APwDwD8A/APAPwD8A/z/Aw=='), 'J': (13, 13, 17, -17, 'AP//AYB/AAD+AQD4BwDgHwCAfwAA/gEA+AcA4B8AgH8AAP4BAPgHAOAfcIA/wAK/AG/+APh/AAA='), 'K': (20, 21, 17, -17, '/v8D/C+AvwDABwD9AsADAPQLwAMA0C/QAwBAv9ACAAD90gMAAPTrPwAA0P//AgBA//UvAAD9gv8BAPQL/A8A0C/A/wBAvwD9CwD9AtB/APgLAP4H/v8D8P8A'), 'L': (17, 17, 17, -17, '/v8DAIC/AAAA/QIAAPQLAADQLwAAQL8AAAD9AgAA9AsAANAvAABAvwAAAP0CAAD0CwAA0C8AwEC/AEAD/QIADvhfVT7+////AA=='), 'M': (25, 25, 17, -17, '/n8AAP3/gP8DAPgvAP0PAPC/ALS/AOD+AtD9A8D3C0DjL0DXLwAN/wBPvwA0+Acd/QLQwD889AtAA/+10C8ADfTrQL8ANMD/Av0C0AD9A/QLQAPwD9AvAA2AH0C/AHgAPAD+Av4fYID//wA='), 'N': (19, 19, 17, -17, '/S8A/h/0HwB0AP0fAB1A/w9AB9D9D9ABdPwLdAAd/QcdQAf+QwfQAf/TAXQA/3YAHQD/HkAHQP8H0AGA/wF0AMB/AB0AwB9ABwDQB/0vAOAB'), 'O': (20, 20, 17, -17, 'AKD/CwAA/la/AMA/APgD4B8A8A/wDwDgD/QLANAv+AsA0D/4CwDQP/gHANA/+AsA0D/4CwDQP/QLAOAv8A8A4A/gHwDwC4A/APgDAP5WvwAAkP8LAA=='), 'P': (16, 16, 17, -17, '/v+/AOB/+QvQL9Av0C/AP9AvwD/QL8A/0C/AP9Av4C/Qf/4L0P+/AdAvAADQLwAA0C8AANAvAADQLwAA4C8AAP3/BwA='), 'Q': (20, 20, 21, -17, 'AKD/CwAA/la/AMA/APgD4B8A8A/wDwDgD/QLANAv+AsA0D/4CwDQP/gHANA/+AsA0D/4CwDQP/QLAOAv8A8A4A/QHwDwC4A/APgDAP5WvwAAkP8vAAAA4D8AAADA/wAAAAD/KwAAAPQv'), 'R': (19, 19, 17, -17, '/v//AgD4X/kLAP0C9AtAvwD8A9AvAP8A9AvAPwD9AvQLQL9A/wDQ//8LAPRf/wAA/YK/AEC/wH8A0C/QPwD0C+AvAP0C8B+AvwD0D/3/A/w/'), 'S': (14, 14, 17, -17, 'AP6vAL3VD/AC4EAfAAz0AoBAvwAA8P8CAP7/AkD//wBA/z8AAP5DAQB/KADghwMAPngA8IJ/5Q+Q/xsA'), 'T': (17, 17, 17, -17, '/v///7uV/1XvAP0CtAL0C9AF0C8AAkC/AAAA/QIAAPQLAADQLwAAQL8AAAD9AgAA9AsAANAvAABAvwAAAP0CAAD4CwAA//8HAA=='), 'U': (19, 19, 17, -17, '/f8C/g/4CwB4AP0CAA1AvwBAA9AvANAA9AsANAD9AgANQL8AQAPQLwDQAPQLADQA/QIADUC/AEADwD8A4ADwDwA8APQfwAcA9P9/AADg/wIA'), 'V': (19, 19, 17, -17, '/r8A+B/9AwDwAP8BAB1A/wCAA8B/ALAA0D8ADgDwH8ACAPgLdAAA/AMPAAD+wgEAQP84AADAvwsAAND/AAAA8D8AAAD0BwAAAPwAAAAALgAA'), 'W': (26, 26, 17, -17, '/v8AAAD/C/8BgAcAD+AfAPwAsAD9A9APQAfAPwD/AjwA+AvwP8ACQP+A/wcdAPAffP/gAAD+0vEPDwDAPw/+dgAA/LvAvwMAQP8D+D8AAPA/QP8CAAD/AfAPAADQDwD+AAAAvADACwAAgAcAOAAA'), 'X': (19, 19, 17, -17, '/P9H/wfwLwAeAPAPwAIA+As8AAD8xwMAAP17AAAA/gcAAAD/AAAAQP8AAADgvwAAAN4/AADQ0j8AACzwHwDAA/APADgA9AuACwD8B/0f8P8f'), 'Y': (19, 19, 17, -17, '/v8D/R/4HwB4APwLAA8A/QPgAQD/AiwAAP+AAwCA/7AAAMB/DgAA4P8CAADwPwAAAPQLAAAA/QIAAEC/AAAA0C8AAAD0CwAAAP4CAAD8/w8A'), 'Z': (17, 17, 17, -17, '8P//P8BXlf8ABwD/ARwA/wMQAP0DAAD8BwAA+A8AAPQPAADwHwAA4D8AANA/AADAfwAAgP8AwED/AEAD/wEADv5XlT78//+/AA=='), '[': (9, 9, 21, -18, '8H/ADwA/APwA8APADwA/APwA8APADwA/APwA8APADwA/APwA8APADwA/APwA8H8A'), '\\': (7, 9, 17, -17, 'LADgAEAHADwA4ABABwA8AOAAQAsAPADgAAALADwA4AEACwA8ANAB'), ']': (9, 9, 21, -18, '+C8AvQD0AtALQC8AvQD0AtALQC8AvQD0AtALQC8AvQD0AtALQC8AvQD0AtAL+C8A'), '^': (15, 15, 17, -17, 'AMABAAD4AAAAfwAA4CwAACwOAIADCwDwgAMAHcACwAPwAHQAdAAPADzAAgAdAAAAAAAAAAAAAAAAAAAAAAAAAA=='), '_': (13, 15, 4, 0, 'AAAAAAAAAMD////w//8/'), '`': (9, 9, 18, -18, '+AOALwD0AAALAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA='), 'a': (13, 13, 12, -12, '0P8LgEf/AAb0BwDQHwBAf0D+/0F/9Ae/0B/8Qn/wC/2Bv/4H+Mu/'), 'b': (14, 14, 18, -18, '/gMAQD8AAPQDAEA/AAD0AwBAPwAA9OcvQP/1H/QD/EM/gD/0A/RHP0B/9AP0Rz9AP/QD+EM/wB/0W78A6b8B'), 'c': (12, 12, 12, -12, 'AP4b0G8u8Aco+AMk/AIA/AIA/AIA/AIA+AMA9AsA4L86AP4b'), 'd': (14, 15, 18, -18, 'AAD/AwAA/wAAwD8AAPAPAAD8AwAA/wDk/z9Af/UP8Af8A/4A/8A/wD/wD/AP/AP8A/8A/4A/wD/QH/AP4G/+A9C//gM='), 'e': (12, 12, 12, -12, 'QP8C4NsP9MMf/IIv/II//P8//FYV/AIA/AMA9AcA4L8uQP4L'), 'f': (9, 9, 18, -18, 'AP4Dvw7+MPwC8AvAL+D/T/0X8AvALwC/APwC8AvALwC/APwC8Av0/wI='), 'g': (13, 13, 20, -14, 'AAAAAABAA/j/C/z2D/gDf/AL/MIv8Av+wB/w2y8A/xsADgAAfQAA/P8v0P//A/3/Lz0AvXwA8PYB4MNv+Qfk/wE='), 'h': (14, 15, 18, -18, '/QsAAPwCAAC/AADALwAA8AsAAPwCAAB/+AfA//8H8Av8AvwC/wC/wD/AL/AP8Av8A/wC/wC/wD/AL/AP8Av8Q//L/wM='), 'i': (7, 7, 18, -18, '0AL8Ar+ADwAAANC/wC/wC/wCv8Av8Av8Ar/AL/BL/w8='), 'j': (9, 10, 24, -18, 'ADwA4A8A/wDABwAAAAAA8P8A8A8A/wDwDwD/APAPAP8A8A8A/wDwDwD/APAPAP8A8A8Av8DwB+wvwH8A'), 'k': (14, 15, 18, -18, '/QsAAPwCAAC/AADALwAA8AsAAPwCAAC/wH/AL8AC8As8APzCAwC/fADA7z8A8P8vAPzjHwC/8A/AL/QL8Av8A/9L/wc='), 'l': (7, 7, 18, -18, '/Qf8AX/AH/AH/AF/wB/wB/wBf8Af8Af8AX/AH/BL/ws='), 'm': (22, 22, 12, -12, '/Yd/0C8A///v/wvwC/0D/wC/wD/gD/AL/AP+AL/AP+AP8Av8A/4Av8A/4A/wC/wD/gC/wD/gD/AL/AP+0P/y//g/'), 'n': (14, 15, 12, -12, '/Yd/APz/fwC/wC/AL/AP8Av8A/wC/wC/wD/AL/AP8Av8A/wC/wC/wD/0v/w/'), 'o': (13, 13, 12, -12, 'QP4GgG++QD/wB/7AL/wC//AL+MMv4A+/wD/4A7/QD/wBvvkC0L8B'), 'p': (14, 14, 18, -12, '/ucvQP/2D/QH/EN/gD/0B/RHf0B/9Af0R39Af/QH+EN/wC/0W/5A//8B9AcAQH8AAPQHAEB/AAD0BwDg/wMA'), 'q': (14, 15, 19, -13, 'AAAAAID//wD91j/AH/AP+AP8A/8A/8A/wD/wD/AP/AP8A/4A/0B/wD+Av/kPQP/5AwAA/gAAgD8AAPAPAAD8AwAA/wAA9P8A'), 'r': (12, 12, 12, -12, '/Qs98I8/8O8/8C8w8A8Q8A8A8A8A8A8A8A8A8A8A8A8A/f8A'), 's': (10, 10, 12, -12, '0P+BXy58QMIPEPwbgP8f4P8DkH8I0McAfHz0gv8H'), 't': (9, 9, 15, -15, 'gAsALwC9QP8/9F/ALwC/APwC8AvALwC/APwC8A+Avwb4Cw=='), 'u': (14, 14, 12, -12, '/gf/Qn/AL/QH/EJ/wC/0B/xCf8Av9Af8Qn/AL/QH/EK/wC/w//8C+Ma/'), 'v': (13, 13, 12, -12, '/w/88w+Ag38AC/wDDeAPLAC/NAD44wDA7wEA/wMA9AcAwA8AAC0A'), 'w': (19, 19, 12, -12, '/w8AwC+/AB3Agj+ACzTAH/ADDuAP/sIB9MP/NAD8Nn8KAP6L/wEA/9A/AMAv8AsA0Af0AQDwADwA'), 'x': (13, 13, 12, -12, '/i/+0S/wAP7hAPDvAUD/AQD4AwDAPwDA/wKA4w+AA/9AB/THP/T/'), 'y': (13, 13, 18, -12, '/h/88g/AQn9AB/wDDtAfLAD/NAD4swDA7wEA/wMA9AcAwA8AAC4AAHQAAOAAAMABQIIDAJ0HAPQHAAA='), 'z': (12, 12, 12, -12, '/P8fbPQPDPgHCP0DAP8AQL8AwD8A0C8Q8A8w9As0/AMt/f8v'), '{': (10, 10, 21, -18, 'APgD8AdAPwD0A0A/APQDQD8A9AOALwD9APwDAP4AgC8A9ANAPwD0A0A/APQDQD8A8AcA+AM='), '|': (6, 6, 24, -18, '8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP8AAP'), '}': (10, 10, 21, -18, '/AIA/QCAHwD4AoAvAPgCgC8A+AJAPwDgCwD4B+ALQD8A+AKALwD4AoAvAPgCgC8A/QD8AgA='), '~': (14, 14, 11, -11, '4AuAx/8DPC34weMB/R8OAH4AAAAAAAAAAAAAAAAAAAAAAAAAAAAA')}
 FONT_BODYS2 = {' ': (4, 0, 0, 0, ''), '!': (5, 5, 9, -9, 'cMABBwwwwAAAHHAA'), '"': (6, 6, 9, -9, 'XMIlXMIlAAAAAAAAAAA='), '#': (11, 11, 10, -10, 'AIkBgDEAMAzQ/z9AkgBgGMD/PwDDAJAkABgGAA=='), '$': (8, 8, 11, -9, 'AAHgC2wVHAG0AkAuADFYNeAfAAEAAQ=='), '%': (12, 12, 9, -9, '9AEGTEMCDMMATGMA9CUuAIxiAIaRQIJiwAAu'), '&': (10, 10, 9, -9, '0AsARwFwAAAOAGgDw9A1DPTBAx/gXwc='), "'": (4, 4, 9, -9, 'HBwcHAAAAAAA'), '(': (5, 5, 12, -11, '0MABAwoYcMABBijAAAc0'), ')': (5, 5, 12, -11, 'GMAAByjQQAMNNKDAAQMG'), '*': (6, 7, 9, -9, 'gEAiQi/QC4kIIAAAAAAAAA=='), '+': (11, 11, 9, -9, 'AAwAAAMAwAAAMAD4/wsAAwDAAAAwAAAMAA=='), ',': (4, 4, 3, -2, 'NCgM'), '-': (5, 5, 4, -4, '/QAAAAA='), '.': (4, 4, 2, -2, 'KCg='), '/': (4, 5, 11, -9, 'wAADCRwwkIABAw0oMAA='), '0': (8, 8, 9, -9, '4As0KBwwDHAMcAxwHDA0OOAL'), '1': (8, 8, 9, -9, '+ANAA0ADQANAA0ADQANAA/Q/'), '2': (8, 8, 9, -9, '4AsYLAA0ACgADUAD0AA4APw/'), '3': (8, 8, 9, -9, '4AsYOAA0ACjQDwA4ADAIOPQL'), '4': (8, 8, 9, -9, 'AA9ADsAMcAwkDAwM/b8ADAAM'), '5': (8, 8, 9, -9, '+B8oACgA+AsALAAwADAILPQL'), '6': (8, 8, 9, -9, 'wB9wICgA3A88NCxwLHA0NNAP'), '7': (8, 8, 9, -9, '/D8AOAAcAA0ACwADgALAAdAA'), '8': (8, 8, 9, -9, '4A84OBwwODjgDyw0DHAsNOAf'), '9': (8, 8, 9, -9, '4AssKAwwDHAseOB3ADQUHeAH'), ':': (4, 4, 7, -7, 'NDQAAAA0NA=='), ';': (4, 4, 8, -7, 'NDQAAAA0KAw='), '<': (11, 11, 8, -8, 'AEAGAL4AvQDgAgDQCwAAvgAAZAAAAA=='), '=': (11, 11, 6, -6, '+P8LAAAAAADg/y8AAAAAAAA='), '>': (11, 11, 8, -8, 'KAAA+AEAkB8AAC4A+QH4AYACAAAAAA=='), '?': (7, 7, 9, -9, '9AOCA9AADdAAJAAAgAPgAA=='), '@': (13, 13, 11, -9, 'AP4GQAu0AAMABkavMAxHwzAMDMNwdApHrwcwAABABzQA4G8A'), 'A': (9, 9, 9, -9, 'QAcAOwDNABgJMDDQ/8EATQMwCoAC'), 'B': (9, 9, 9, -9, '+C+gwIECCgoc+C+gwIICDQo8+C8A'), 'C': (9, 9, 9, -9, 'gH/QAsYCAAMADAAwAMACAC1ggH8A'), 'D': (10, 10, 9, -9, '+C+AAh4ogIMCNCgAgwI0KICDAh74LwA='), 'E': (8, 8, 9, -9, '+H8oACgAKAD4PygAKAAoAPh/'), 'F': (7, 7, 9, -9, '+C8KgAKgAPgfCoACoAAoAA=='), 'G': (10, 10, 9, -9, 'gL9ACyQsAMAAAAz0wwA0LEBDCziAvwA='), 'H': (10, 10, 9, -9, 'KMCCAiwowIICLPj/ggIsKMCCAiwowAI='), 'I': (4, 4, 9, -9, 'KCgoKCgoKCgo'), 'J': (4, 5, 12, -9, 'oIACCiiggAIKKKDAAYcL'), 'K': (9, 9, 9, -9, 'KOCgsICyALoA+ACgDoDiAAodKNAB'), 'L': (7, 8, 9, -9, 'KAAoACgAKAAoACgAKAAoAPg/'), 'M': (11, 11, 9, -9, 'eAAPPuCDDtygSTYocw2KToPC0aAANCgADQ=='), 'N': (10, 10, 9, -9, 'eMCBDxzowYE2HCjLgcIcKOiBAh8o4AE='), 'O': (10, 10, 9, -9, 'gH9ACx0sQMMAcAwAxwBwLEBDCy2AfwA='), 'P': (8, 8, 9, -9, '+A8oOChwKHAoOPgfKAAoACgA'), 'Q': (10, 10, 11, -9, 'gH9ACy0sQMMAcAwAxwBwLEBDCx2AfwAACwDQAQ=='), 'R': (9, 9, 9, -9, '+B+g0IACBwoN+B+g4IACBwo0KMAB'), 'S': (8, 8, 9, -9, '4AssJAwALADgHwB0AHAYdOQf'), 'T': (8, 9, 9, -9, '/P8DKACgAIACAAoAKACgAIACAAoA'), 'U': (10, 10, 9, -9, 'HMDBARwcwMEBHBzAwQEcKMBABw7QLwA='), 'V': (9, 9, 9, -9, 'CoA2AMMBDg0cMDSAogDNAPADQAcA'), 'W': (13, 13, 9, -9, 'DXTAMeBCw8ENDgozHDSJMcAY2QA3sAL4wAfQAg4A'), 'X': (9, 9, 9, -9, 'LNDAwADNAeACQAcAOwCLAg4cDcAA'), 'Y': (8, 9, 9, -9, 'KMDCQQMNA+AHAA8AKACgAIACAAoA'), 'Z': (9, 9, 9, -9, '/f8AwAKAA4ADQANABwAHAAsA/f8B'), '[': (5, 5, 12, -10, '/HDAAQcccMABBxxwwAE/'), '\\': (4, 5, 11, -9, 'AyjQAAMYkAADHJAAAww='), ']': (5, 5, 12, -10, '+AADDDDAAAMMMMAAAww+'), '^': (11, 11, 9, -9, 'AB4A0B0ADQ3AAA0AAAAAAAAAAAAAAAAAAA=='), '_': (6, 8, 3, 0, 'AAAAAPy/'), '`': (6, 7, 10, -10, 'JAAkAAAAAAAAAAAAAAAAAAAA'), 'a': (8, 8, 7, -7, '+AcAHAAk9D8cNBw89Ds='), 'b': (8, 8, 11, -11, 'HAAcABwAHADsD3w0LHAcoCxwPDTsDw=='), 'c': (7, 7, 7, -7, '4AsOxQAwAAwADgW+AA=='), 'd': (8, 8, 11, -11, 'ADAAMAAwADDgNyw8DDQMMAw0LDzgNw=='), 'e': (8, 8, 7, -7, '4AsoOAww/H8MACgg4B8='), 'f': (5, 5, 11, -11, '4NOAAgr+ooACCiiggAI='), 'g': (8, 8, 10, -7, '4DcsPAw0DDAMNCw84DcANBQs4As='), 'h': (8, 8, 11, -11, 'HAAcABwAHACsHzw0HDAcMBwwHDAcMA=='), 'i': (4, 4, 10, -10, 'HAAAHBwcHBwcHA=='), 'j': (4, 5, 13, -10, 'cAAAABxwwAEHHHDAAQcMLAA='), 'k': (8, 8, 11, -11, 'HAAcABwAHAAcKBwL7AH8AJwDHA4cOA=='), 'l': (4, 4, 11, -11, 'HBwcHBwcHBwcHBw='), 'm': (13, 13, 7, -7, '7E8v8ODCwUEDCgcMKBwwoHDAgMIBAwo='), 'n': (8, 8, 7, -7, 'rB88NBwwHDAcMBwwHDA='), 'o': (8, 8, 7, -7, '4AssKAwwDDAMMCwo4As='), 'p': (8, 8, 10, -7, '7A98NCxwHKAscDw07A8cABwAHAA='), 'q': (8, 8, 10, -7, '4DcsPAw0DDAMNCw84DcAMAAwADA='), 'r': (5, 6, 7, -7, '7McDHMABHMABHAA='), 's': (7, 7, 7, -7, '9AMDwgCQCwBNQkN/AA=='), 't': (5, 5, 9, -9, 'HHDgPwcccMABCvAD'), 'u': (8, 8, 7, -7, 'HDAcMBwwHDAcMCg48Dc='), 'v': (8, 8, 7, -7, 'DTAMKCgcNA1wCuADwAM='), 'w': (11, 11, 7, -7, 'DQ4Mw0fCcWKgyQy0cQM8uAAOHQA='), 'x': (8, 8, 7, -7, 'HCg0DeAHwAOgBzQNDTQ='), 'y': (8, 8, 10, -7, 'DTAMKCgcMA1wC9ADwALAAdAAfAA='), 'z': (7, 7, 7, -7, '/R9AAzRAAzAAB9D/AQ=='), '{': (8, 8, 12, -10, 'AC5AA0ADQAOAAvQAwAJAA0ADQANAAwAu'), '|': (4, 4, 13, -10, 'JCQkJCQkJCQkJCQkJA=='), '}': (8, 8, 12, -10, '9ACAAoACQAJAAwAuQANAAoACgAKAAvQA'), '~': (11, 11, 6, -6, 'AAAA+EJBgS8AAAAAAAAAAAA=')}
 FONT_BODYS3 = {' ': (4, 0, 0, 0, ''), '!': (4, 4, 8, -8, 'NDQ0JCQkADQ='), '"': (5, 5, 8, -8, 'zDDDDAAAAAAAAA=='), '#': (9, 9, 8, -8, 'ADIAxYD/HzAFgAjw/wOGAEwB'), '$': (7, 7, 10, -8, 'gAD9wghwAvQCYAPI8B+AACAA'), '%': (10, 10, 8, -8, 'uMCQCAKJJIDLAADWByDDgDAMBX0='), '&': (9, 9, 8, -8, '4APQEEACABwAnJI0qMHBA/01'), "'": (3, 3, 8, -8, 'DMMAAAAA'), '(': (4, 4, 10, -9, 'ICAYDAwMDBggIA=='), ')': (4, 4, 10, -9, 'DCQwMGBgMDAkDA=='), '*': (6, 6, 8, -8, 'IFAitEALJQICAAAA'), '+': (9, 9, 7, -7, 'AAMADAAwAP8/AAMADAAwAA=='), ',': (4, 4, 2, -1, 'GAw='), '-': (4, 4, 4, -4, 'fQAAAA=='), '.': (4, 4, 1, -1, 'HA=='), '/': (4, 4, 9, -8, 'kCAwJBgMCAYD'), '0': (7, 7, 8, -8, '8AOLwsAwMAwMA8PiwA8='), '1': (7, 7, 8, -8, '/AAwAAwAA8AAMAAM4D8='), '2': (7, 7, 8, -8, '9AKCAtAAGIACKIAC8D8='), '3': (7, 7, 8, -8, '9ANCA5DADwANAIPQ0As='), '4': (7, 7, 8, -8, 'QAPgADJQDAhD/wcwAAw='), '5': (7, 7, 8, -8, '/AcDwADwCwAOAAPg8As='), '6': (7, 7, 8, -8, '4A8OwACwHxwNA4fRwB8='), '7': (7, 7, 8, -8, '/A9AAnAADIABMAAJwAE='), '8': (7, 7, 8, -8, '9AdHw9HADxwNA8PR0B8='), '9': (7, 7, 8, -8, '9AJH0sBwNPQOAAOw8As='), ':': (4, 4, 6, -6, 'GAAAAAAY'), ';': (4, 4, 7, -6, 'GAAAAAAYDA=='), '<': (9, 9, 6, -6, 'ANAAuYAbAG4AQC4AQAM='), '=': (9, 9, 5, -5, '/P8AAMD/DwAAAAAA'), '>': (9, 9, 6, -6, 'KABAHwCACwAu0AegAAA='), '?': (6, 6, 8, -8, '/AE0gAINMAADAAAD'), '@': (11, 11, 10, -8, 'QL8ALNCAAcAwvCOI0QhidMPwLmAAALCAAeAvAA=='), 'A': (8, 8, 8, -8, 'wAKQAzAGMAkYDPwfDTAGMA=='), 'B': (8, 8, 8, -8, '/AsMHAwc/AsMGAwkDCj8Cw=='), 'C': (8, 8, 8, -8, '4B84IAwADQANAAwAOCDgHw=='), 'D': (8, 8, 8, -8, '/AsMOAygDNAM0AygDDj8Cw=='), 'E': (7, 7, 8, -8, '/A8DwADwPwwAA8AA8H8='), 'F': (6, 6, 8, -8, '/MsADMB/DMAADMAA'), 'G': (9, 9, 8, -8, '4C/gQMEAQAMADbwwQIIDCvgL'), 'H': (8, 8, 8, -8, 'DDAMMAww/D8MMAwwDDAMMA=='), 'I': (3, 3, 8, -8, 'DMMwDMMw'), 'J': (3, 4, 10, -8, 'MDAwMDAwMDA0Hg=='), 'K': (7, 8, 8, -8, 'DCgMC9wCvADsAEwDDA0MNA=='), 'L': (6, 7, 8, -8, 'DAADwAAwAAwAA8AA8D8='), 'M': (9, 9, 8, -8, 'PNDxwccJGjNmTI4xHMYAGANg'), 'N': (8, 8, 8, -8, 'PDB8MNwwjDEMMww2DDwMOA=='), 'O': (9, 9, 8, -8, '4B/g0MEATQMwDcAwQINDB/gH'), 'P': (7, 7, 8, -8, '/AdDw8AwNPwHA8AAMAA='), 'Q': (9, 9, 9, -8, '4B/g0MEATQMwDcAwQINDB/gHACgA'), 'R': (8, 8, 8, -8, '/AcMDQwMDA38BwwNDBgMMA=='), 'S': (7, 7, 8, -8, '9AMHwgCgAUAOAIfQ0B8='), 'T': (7, 8, 8, -8, '/P8AAwADAAMAAwADAAMAAw=='), 'U': (8, 8, 8, -8, 'DDAMMAwwDDAMMAwwKCjgCw=='), 'V': (8, 8, 8, -8, 'BjANNAwYKAwwCXAH0APAAg=='), 'W': (11, 11, 8, -8, 'Cg1YgwfDcMJwzCRoIgZt1AAPPMADCw=='), 'X': (8, 8, 8, -8, 'DCg0DKAHwALQAzAKKAwNNA=='), 'Y': (7, 8, 8, -8, 'GHAwJNAMgAcAAwADAAMAAw=='), 'Z': (8, 8, 8, -8, '/T8AHAAKQALQADAAHAD9Pw=='), '[': (4, 4, 10, -8, 'PAwMDAwMDAwMPA=='), '\\': (4, 4, 9, -8, 'AwYIDBgkMCCQ'), ']': (4, 4, 10, -8, 'fGBgYGBgYGBgfA=='), '^': (9, 9, 8, -8, 'QAtAo0ACCgAAAAAAAAAAAAAA'), '_': (6, 7, 3, 0, 'AAAAwP8C'), '`': (6, 6, 9, -9, 'GAACAAAAAAAAAAAAAAA='), 'a': (7, 7, 6, -6, '/AKAgr8wJA0LvgI='), 'b': (7, 7, 9, -9, 'DAADwABwHywNA8aAsTTcBw=='), 'c': (6, 6, 6, -6, '8McBCZAAHAB/'), 'd': (7, 7, 9, -9, 'AAwAA8DQNxxOApPAcDj0DQ=='), 'e': (7, 7, 6, -6, '8AcD0/8kABwA/AM='), 'f': (4, 5, 9, -9, '8GDAwD8MMMAAAwwA'), 'g': (7, 7, 8, -6, '9A2Hk8AkMAwOfQOg4As='), 'h': (7, 7, 9, -9, 'DAADwABwHywNA8PAMDAMDA=='), 'i': (3, 3, 8, -8, 'DMAwDMMw'), 'j': (3, 4, 10, -8, 'MAAwMDAwMDAwHA=='), 'k': (6, 7, 9, -9, 'DAADwAAwKIwCH8AKMAoMDQ=='), 'l': (3, 3, 9, -9, 'DMMwDMMwDA=='), 'm': (11, 11, 6, -6, '3OcDR4fCwMAwMDAMDAwDAwM='), 'n': (7, 7, 6, -6, '3AdLw8AwMAwMAwM='), 'o': (7, 7, 6, -6, '9AKHk8AkMBwOvQA='), 'p': (7, 7, 8, -6, '3AdLw4AxYCwN98EAMAA='), 'q': (7, 7, 8, -6, '9A2Hk8AkMBwOfQPAADA='), 'r': (5, 5, 6, -6, '3LLAAAMMMAA='), 's': (6, 6, 6, -6, '+JMAbAA5ANMf'), 't': (4, 5, 8, -8, 'DDDgDwMMMMAAPQ=='), 'u': (7, 7, 6, -6, 'DAwDw8AwMBwOfQM='), 'v': (7, 7, 6, -6, 'CQxDgjGQDLABOAA='), 'w': (9, 9, 6, -6, 'CYMxHcOIDDYntHjA0QA='), 'x': (7, 7, 6, -6, 'DArdAA7AByhDQwM='), 'y': (7, 7, 8, -6, 'CQxDgjHACfABNAAGsAA='), 'z': (6, 6, 6, -6, '/QckgAADDOB/'), '{': (7, 7, 10, -8, 'QAswAAwAA3gANAAMAAPAANAC'), '|': (4, 4, 11, -8, 'GBgYGBgYGBgYGBg='), '}': (7, 7, 10, -8, 'eAAwAAwAA0ALMAAMAAPAAB4A'), '~': (9, 9, 5, -5, 'AADQC0LQBwAAAAAA')}
+FONT_BODYS4 = {' ': (4, 0, 0, 0, ''), '!': (6, 2, 10, -10, 'u3tnALs='), '"': (6, 5, 4, -10, 'yiijjDI='), '#': (12, 10, 10, -10, 'AMMAJA2AksD/v8AwAEkD//8DhwEwDEDSAA=='), '$': (9, 7, 13, -11, 'gAAggG8oJoaAJ4BvAHaAqGGXvwACgAA='), '%': (13, 13, 10, -10, '9AEMcBwY0GAkQINxABynfdDXHAeAMRhAwmAAA8cBBvQC'), '&': (11, 11, 10, -10, 'gB8AKAgABwCAAgDgAgDaQsOBonCAD3jgA/SLAw=='), "'": (4, 2, 4, -10, 'qqo='), '(': (5, 4, 12, -11, 'MCgMDQoKCgoNDCgw'), ')': (5, 4, 12, -11, 'CgwoNDRwcDQ0KAwK'), '*': (7, 7, 6, -10, 'gEAiRm6QG4kYIAA='), '+': (12, 10, 9, -9, 'AAYAYAAABgBgAP7/B2AAAAYAYAAABgA='), ',': (4, 3, 3, -2, 'TWIA'), '-': (5, 5, 1, -4, '/QE='), '.': (4, 2, 2, -2, '7g=='), '/': (5, 5, 12, -10, 'gAIHDSRgwEACBhw0oMAB'), '0': (9, 8, 10, -10, '0Bt0dCigHOAc0BzQHOAooHR00Bs='), '1': (9, 7, 10, -10, '5EF2ABwAB8ABcAAcAAfAQf8L'), '2': (9, 7, 10, -10, '+YaBA8ABcAAO4AEe0AEdwP8L'), '3': (9, 7, 10, -10, '+IZBB8ABdPQHQAeAAqAGXb4B'), '4': (9, 9, 10, -10, 'AC0ArQCcAigKNChwoND/DwAKACgAoAA='), '5': (9, 7, 10, -10, '/U8CkAD0GwUOAAuAArAGTr4B'), '6': (9, 7, 10, -10, '4AsL5QAsAOvLR7tAK9AdLfkC'), '7': (9, 7, 10, -10, '/y8AB+AALEAHoAAcQAOwAB0A'), '8': (9, 8, 10, -10, '4C94dCigdHTgH3h0HOAc4Hi04C8='), '9': (9, 8, 10, -10, '4Bt4NBygHKBo9ODrAKAAcBQo4As='), ':': (5, 3, 7, -7, 'TQMAQNMA'), ';': (5, 3, 8, -7, 'TQMAQJMY'), '<': (12, 10, 8, -8, 'AEAGgC+QG9ALAL0AALkBAPgCAGQ='), '=': (12, 10, 4, -7, '/v8HAAAAAOD/fw=='), '>': (12, 10, 8, -8, 'GQCQGwBAbwBAPgDkA/QG+QGQAQA='), '?': (7, 6, 10, -10, '+WF0AAc44EADNAAANEAD'), '@': (14, 13, 12, -10, 'APkLABrkAQcADQp+kwwKDjMYNMxg0CSDgnco+G3AAQAAbJACQL4G'), 'A': (10, 10, 10, -10, 'QAsA6ADAKQBNA2BwAAMK+P/AARgNQKMAcA=='), 'B': (10, 8, 10, -10, '/hsKOAo0Cjj+Hwo0CrAKsAp0/hs='), 'C': (10, 10, 10, -10, 'gL8BGyQ4AMABAB0A0AEAHACAAwCwQQL4Gw=='), 'D': (11, 9, 10, -10, '/hso0KIAnAKgCoArAK4AqAJwCrT4bwA='), 'E': (9, 7, 10, -10, '/q8CoAAoAP6vAqAAKAAKgP8P'), 'F': (8, 7, 10, -10, '/p8CoAAoAP6LAqAAKAAKgAIA'), 'G': (11, 10, 10, -10, 'gL8BG2Q4AMABAB0A0AG/HACKA6CwQQr4Kw=='), 'H': (11, 9, 10, -10, 'CtAoQKMAjQI0/v8oQKMAjQI0CtAoQAM='), 'I': (4, 2, 10, -10, 'qqqqqqo='), 'J': (4, 4, 13, -10, 'oKCgoKCgoKCgoKB0Lg=='), 'K': (9, 9, 10, -10, 'CrQodKB0gHYAfgDoAqAogIIDCjgogAM='), 'L': (8, 7, 10, -10, 'CoACoAAoAAqAAqAAKAAKgP8L'), 'M': (12, 10, 10, -10, 'LoDrA7xq0KoJpsoxqmiiSh+q8KAKAKoAoA=='), 'N': (10, 9, 10, -10, 'LtD4QKMKjTY0itIoXaOgjQI7CvgowAM='), 'O': (11, 11, 10, -10, 'gL8AbOCAA7BwADQdAF0HQMcB0OAALLCBA+AvAA=='), 'P': (8, 7, 10, -10, '/otCq4Ar4Aqt/6IAKAAKgAIA'), 'Q': (11, 11, 12, -10, 'gL8AbOCAA7BwADQdAF0HQMcB0OAALLCBA+AvAAAOAAAO'), 'R': (10, 9, 10, -10, '/gsotKCAgwIOCi34L6DQgQIOCrAoQAM='), 'S': (9, 9, 10, -10, '4BugQcEBAAsA9AYA+QEADgA0GLSQvwA='), 'T': (9, 10, 10, -10, '/P8L0AAADQDQAAANANAAAA0A0AAADQDQAA=='), 'U': (10, 9, 10, -10, 'CtAoQKMAjQI0CtAoQKMAjQMoLHSQbwA='), 'V': (10, 10, 10, -10, 'CgDXADgswIEDDXCgAAoH0DQA3AKADwC0AA=='), 'W': (14, 14, 10, -10, 'DbAAx0EPNBykgYKCKRw0TMMB1zANsAqmAGqgB9ADfQA8wAM='), 'X': (10, 10, 10, -10, 'KMACBw7QdADoAQALAPQAwCkACgc40NABKA=='), 'Y': (9, 9, 10, -10, 'CtBxwEKHAmgHwAcADQA0ANAAQAMADQA='), 'Z': (10, 9, 10, -10, '/f8CQAdACwALAA4AHgAdAC0ALAD0/w8='), '[': (5, 4, 12, -11, 'PgYGBgYGBgYGBgY+'), '\\': (5, 5, 12, -10, 'ByjQAAcYkAADGJBAAxyg'), ']': (5, 4, 12, -11, 'fnBwcHBwcHBwcHB+'), '^': (12, 10, 4, -10, 'QA8ArQN0oMABKA=='), '_': (7, 9, 1, 2, '/P8A'), '`': (7, 4, 3, -11, 'CRgw'), 'a': (9, 8, 8, -8, '+AsAOABw5H8scAx0LHn0dw=='), 'b': (9, 8, 11, -11, 'CgAKAAoA6gseHQo0CjQKNAo0Hh3qCw=='), 'c': (8, 7, 8, -8, '0BseyQE0AA0AB4BHQm8='), 'd': (9, 8, 11, -11, 'AKAAoACg4Kt4uBywDaANoByweLjgqw=='), 'e': (9, 8, 8, -8, '0B90dByQ/f8NABwAeFDQLw=='), 'f': (5, 6, 11, -11, '4EcDJOA/JEACJEACJEACJAA='), 'g': (9, 8, 11, -8, '4Kt4uBywDaANoByweLjgqwBwFDjgGw=='), 'h': (9, 7, 11, -11, 'CoACoACoLx6dAqqAKqAKqAKqgAI='), 'i': (4, 2, 11, -11, 'qqCqqqoK'), 'j': (4, 4, 14, -11, 'oKAAoKCgoKCgoKCgcC0='), 'k': (8, 7, 11, -11, 'CoACoAAodEqHduAH6ALKgsKiwAI='), 'l': (4, 2, 11, -11, 'qqqqqqoK'), 'm': (14, 12, 8, -8, '6osfHn00CihwCihgCihgCihgCihgCihg'), 'n': (9, 7, 8, -8, '6otHp4AqoAqoAqqAKqA='), 'o': (9, 8, 8, -8, '4Bt4OBygDKANoBygeDTgGw=='), 'p': (9, 8, 11, -8, '6gseHQo0CjQKNAo0Hh3qCwoACgAKAA=='), 'q': (9, 8, 11, -8, '4Kt4uBywDaANoByweLjgqwCgAKAAoA=='), 'r': (6, 5, 8, -8, '6nqggAIKKKCAAg=='), 's': (7, 7, 8, -8, '5AcHxgDgBpAOAJrRkS8='), 't': (5, 6, 10, -10, 'KIAC/oMCKIACKIACKAA+'), 'u': (9, 7, 8, -8, 'BqgBaoAaoAaoAurQ4qs='), 'v': (8, 8, 8, -8, 'DaAccCg0NChwHKAN0AvABw=='), 'w': (11, 11, 8, -8, 'DSwoRw+GYcOhnDU0owqstAEefIAHDg=='), 'x': (8, 8, 8, -8, 'HHR0LOAOwAfAB6ANOCgdcA=='), 'y': (8, 8, 11, -8, 'DaAccCg0NChgDdAKwAeAA4AC0AF8AA=='), 'z': (7, 7, 8, -8, '/S8AB7AACuAAHdAB9L8='), '{': (9, 7, 13, -11, 'QA9wAAwAA8AAONAHgAPQADAADAAHQA8='), '|': (5, 2, 14, -11, '3d3d3d3d3Q=='), '}': (9, 7, 13, -11, 'fQA4AA1AA9AAcAD0AAfQADQADYADfQA='), '~': (12, 10, 4, -6, 'AACAb2AF+QEAAA==')}
 FONT_KICK = {'A': (12, 12, 12, -12, 'AH4AAL8AQPsAwOcBwNMC0MID8MEH8P8L9OoPfAAfPAAuPQA9'), 'B': (12, 12, 12, -12, '/P8C/PoPfEAPfAAPfIAP/P8C/OoLfAAvfAA+fAAv/Oof/P8C'), 'C': (12, 12, 12, -12, 'QP8B8P8P+AEvvAAdPAAAPQAAPQAAPAAAvAAc+AEv4P8PQP8C'), 'D': (12, 12, 12, -12, '/L8A/P8HfIAPfAAvfAA+fAA9fAA+fAAufAAffIAP/P8H/L8A'), 'E': (11, 11, 12, -12, '/P8L///CBwDwAQB8AAD//8H/P/ABAHwAAB8AwP//8P8/'), 'F': (10, 10, 12, -12, '/P/D/z98AMAHAHwAwP8//P/DBwB8AMAHAHwAwAcA'), 'G': (12, 12, 12, -12, 'QP8G8P8v+AEtvAAAPAAAPQAAPdB/PIB+vAB4+AF94P8/QP8G'), 'H': (12, 12, 12, -12, 'fAAffAAffAAffAAffAAf/P8f/P8ffAAffAAffAAffAAffAAf'), 'I': (4, 4, 12, -12, 'fHx8fHx8fHx8fHx8'), 'J': (9, 9, 12, -12, 'gP8A/gNADwA9APQA0ANADwA9APi08ML/A/0H'), 'K': (12, 12, 12, -12, 'fAAvfMALfPACfPwAfD4A/C8A/H8AvPgAfPADfMALfEAffAA+'), 'L': (10, 10, 12, -12, 'fADABwB8AMAHAHwAwAcAfADABwB8AMAHAPz/w/9/'), 'M': (13, 13, 12, -12, '/AH88Qvwxz/gH+/Af3wH+/E83cfzOB9P93w8/PLx8MPHgw8fDy18'), 'N': (12, 12, 12, -12, '/AAe/AEe/AMevAsePA8ePC4ePDwePLgePPAePOAfPMAfPEAf'), 'O': (12, 12, 12, -12, 'QP8C4P8P+AE/vAB8PAC8PQC4PQC4PAC8vAB89AE/4P8PQP8C'), 'P': (11, 11, 12, -12, '/P8B///BB/jwATx8QA8f4MP/f/D/B3wAAB8AwAcA8AEA'), 'Q': (12, 12, 15, -12, 'QP8C4P8P+AE/vAB8PAC8PQC4PQD4PAC8vAB8+AE+8P8fQP8CAPQAAPArAIAv'), 'R': (12, 12, 12, -12, '/P8C/P8PfAAvfAAufAAf/P8P/P8CfOADfMAHfIAPfAAffAA+'), 'S': (11, 11, 12, -12, '0L8Bvf7BB3jwAQD8AgD8bwDkfwAAPwAATw/gw/9/gP8G'), 'T': (10, 10, 12, -12, '///r/39ADwD0AEAPAPQAQA8A9ABADwD0AEAPAPQA'), 'U': (12, 12, 12, -12, 'fAAufAAufAAufAAufAAufAAufAAufAAvfAAf+IAP8P8HgL8B'), 'V': (11, 11, 12, -12, 'LgBfD8DDA7jgAh/0wAM8tAAeHkDLA8C3AOAeAPQDALwA'), 'W': (15, 16, 12, -12, 'H/ADPS7wAy498AcePLQLH3w4Dw94PE8PtCyeC/AtnQfwHuwD4A/8A9AP/ALQC/gB'), 'X': (11, 11, 12, -12, 'PEAPPvABHy5A3wPAvwDADwD4BwDvA+DyAj30wAe8+AA8'), 'Y': (11, 11, 12, -12, 'PUAPH/BCDz3AywfA+wDgHwDwAwC8AAAvAMALAPACALwA'), 'Z': (10, 10, 12, -12, '/P+D/z8A8AGACwA9APABwAsAPgDwAMALAP3/5/9/'), '0': (9, 9, 12, -12, '0B/Q/8FHDw88PfD0wNMDTw88PPDw0UL/B/QH'), '1': (9, 9, 12, -12, 'gA/AP8D3ANIDQA8APQD0ANADQA8APYD6Gv9/'), '2': (9, 9, 12, -12, '4B/w/8JDDwA8APgA9AH0AvQC9ALwAtD/T/9/'), '3': (9, 9, 12, -12, '4B/w/9JDDwA8ALgA/gD8AgA9APD1wMP/D/gL'), '4': (9, 9, 12, -12, 'AH0A/AH4B7Ae4HzQ8cHDRwcf//+n+gvABwAf'), '5': (9, 9, 12, -12, '/P/wqsIDAA8AvC/w/0NBDwB8APD10MP/C/gL'), '6': (9, 9, 12, -12, '0C/Q/8JHCw8AvS/0+9IDTw98PPDw0UP/C/QL'), '7': (9, 9, 12, -12, '/f/0/wNADwAPAC0APAC0APABwANADwAuALgA'), '8': (9, 9, 12, -12, '4C/g+8JDDw88fPjAv4DvSw88PfD1wMfvD/gL'), '9': (9, 9, 12, -12, '4B/g/8FDTw88PfDw0MfvH/g9APDw4IL/A/gD'), ' ': (4, 0, 0, 0, ''), '.': (4, 4, 2, -2, 'fHw='), ',': (4, 4, 4, -2, 'fHwwOA=='), ':': (5, 5, 9, -9, '9NADAAAAAAAAPfQA'), ';': (5, 5, 11, -9, '9NADAAAAAAAAPfSAAgc='), "'": (4, 4, 12, -12, 'PDw8PAAAAAAAAAAA'), '-': (5, 5, 5, -5, '/fYLAAAAAA=='), '&': (12, 12, 12, -12, 'AH8AwOcBwNICwOIBwL8A0A8K9A8PPG0LLfgDPPAD+P4/4B8+'), '%': (14, 14, 12, -12, '9AI0wLbAAg0PDuDwcAANzwPAto0v9LJtB4DjsAAcDg/w4LBAA20HLIAv'), '/': (4, 5, 12, -12, '4MADDyx04MEDDyy04MED'), '(': (5, 6, 15, -12, 'wAMf8IALfMADPMADPMADfIAL8AAfwAM='), ')': (5, 5, 15, -12, 'LvCACzzwwAceuODBBw88uPDgAg=='), '!': (5, 5, 12, -12, '9NBDCy200EILLbQAQA89'), '?': (10, 10, 12, -12, '0C+A/w984AIAPQDgAkAfAH0A8AFACwAAAIALALgA'), '$': (9, 9, 16, -14, 'AAAADAD+Au8+LfO0DMA7AP4LgP8AzAswbce4vf+QvwAwAEAA'), '+': (9, 9, 10, -10, 'AAAALACwAMAC/f/y/wuwAMACAAsAAAA='), '=': (9, 9, 7, -7, '/f/y/wsAAKqq/f8CAAAAAA=='), '"': (8, 8, 12, -12, 'PC48HjwdPB0AAAAAAAAAAAAAAAAAAAAA')}
 
 # --- font engine: each glyph is (advance, width, height, top, b64) where
@@ -74,6 +75,16 @@ def centre(font, s, base_y, color):
     text(font, s, (W - text_w(font, s)) // 2, base_y, color)
 
 def wrap(font, s, width):
+    # '|' is a manual line break: each part wraps onto its own lines,
+    # so headlines can be balanced by hand instead of breaking wherever
+    # the width runs out (M4/S4). Parts are stripped before wrapping.
+    out = []
+    for part in s.split("|"):
+        out.extend(_wrap_part(font, part.strip(), width))
+    return out
+
+
+def _wrap_part(font, s, width):
     lines, cur = [], ""
     for word in s.split(" "):
         t = word if not cur else cur + " " + word
@@ -124,6 +135,12 @@ def hline(x, y, w, c):
 
 def vline(x, y, h, c):
     rect(x, y, 1, h, c)
+
+def outline(x, y, w, h, c):
+    rect(x, y, w, 1, c)
+    rect(x, y + h - 1, w, 1, c)
+    rect(x, y, 1, h, c)
+    rect(x + w - 1, y, 1, h, c)
 
 def circle(cx, cy, r, c, fill=True):
     for yy in range(cy - r, cy + r + 1):
@@ -222,11 +239,11 @@ REG = {"Europe": (43, 93, 168), "Middle East": (176, 110, 0),
 # CLAIM where only one side asserted it. All first reported 19 Nov 2026.
 BIG = [
     (1, "Asia", "DIPLOMACY", "CONFIRMED", "MANILA TIMES",
-     "Trump, Xi and Putin meet in Shenzhen",
+     "Trump, Xi and | Putin meet | in Shenzhen",
      "First trilateral summit; nuclear arms and two wars on the table.",
      "Manila Times, The Hindu"),
     (2, "Americas", "GAMES", "CONFIRMED", "LE MONDE",
-     "GTA VI launches worldwide",
+     "GTA VI launches",
      "Midnight rollout after 13 years; first reviews score 99 out of 100.",
      "Le Monde"),
     (3, "Americas", "AI IPO", "CONFIRMED", "BUSINESS TIMES",
@@ -234,7 +251,7 @@ BIG = [
      "Largest listing ever tops SpaceX; shares trade on Nasdaq as ANT.",
      "Business Times"),
     (4, "Middle East", "HORMUZ", "CLAIM", "TEHRAN",
-     "Iran says 3 tankers hit mines",
+     "Iran says 3 | tankers hit | by mines",
      "Tehran claims three ships caught fire off Hormuz; no vessels named.",
      "NDTV, Al Jazeera"),
 ]
@@ -269,7 +286,7 @@ SECOND = [
      "Severe storm due ashore on Andhra-Odisha coasts by 20 Nov.",
      "DD India"),
     (12, "Americas", "ART", "CONFIRMED", "BBC",
-     "Van Gogh sells for a record $190.4m",
+     "Van Gogh sells for | a record $190.4m",
      "Chestnut Trees in Blossom tops a Sotheby's sale.",
      "BBC"),
     (13, "Global", "MARKETS", "CONFIRMED", "HINDU",
@@ -277,8 +294,8 @@ SECOND = [
      "Bitcoin and Ethereum fall about 2.4% amid broad crypto weakness.",
      "Hindu BusinessLine"),
     (14, "Asia", "QUAKE", "CONFIRMED", "JAPAN TIMES",
-     "5.7 quake shakes Kumamoto",
-     "Tremor strikes at 02:22, reaching lower shindo 5; no tsunami warning.",
+     "5.7 quake | shakes Kumamoto",
+     "Tremor at 02:22, lower shindo 5; no tsunami warning.",
      "Japan Times"),
     (15, "Europe", "TENNIS", "CONFIRMED", "NST",
      "Alcaraz reaches ATP Finals semis",
@@ -307,17 +324,26 @@ ALSO = [
     (29, "Goldman lifts India to overweight"),
     (30, "Indian stocks fall on Fed jitters"),
     (31, "Nadella: much infrastructure unpatchable"),
-    (32, "Nadella: AI agents to reshape web economics"),
+    (32, "Nadella: AI agents reshape web economics"),
     (33, "'AI nose' matches human accuracy"),
     (34, "Mastercard pilots agentic commerce"),
     (35, "Jeffries nominated as House Speaker"),
     (36, "Bulls rout Nets; Giddey shines"),
-    (37, "Bumrah leaves New Zealand reeling at 60-4"),
+    (37, "Bumrah leaves NZ reeling at 60-4"),
     (38, "Man City, Real Madrid win in Europe"),
     (39, "NASA finds ancient Kuiper water clues"),
-    (40, "mRNA vaccine shields against Nipah, Hendra"),
+    (40, "mRNA vaccine shields vs Nipah, Hendra"),
     (41, "Voyager 1 reaches one light-day out"),
     (42, "FDA approves first siRNA myasthenia drug"),
+]
+
+# region per brief, in ALSO order (drives the brief number-disc colours)
+ALSO_REGIONS = [
+    "Americas", "Asia", "Global", "Americas", "Europe", "Middle East",
+    "Europe", "Europe", "Asia", "Asia", "Asia", "Asia",
+    "Asia", "Asia", "Americas", "Americas", "Global", "Americas",
+    "Americas", "Americas", "Oceania", "Europe", "Americas", "Global",
+    "Global", "Americas",
 ]
 
 TIMELINE = [
@@ -332,14 +358,14 @@ TIMELINE = [
 # map pins: (story num, longitude, latitude, region, label offset dx, dy)
 # clustered pins get offset numbered discs joined by a leader line
 PINS = [
-    (1, 114.1, 22.5, "Asia", 0, 0), (2, -74.0, 40.7, "Americas", -16, -12),
-    (3, -71.0, 42.0, "Americas", 14, -10), (4, 56.5, 26.5, "Middle East", 0, 0),
+    (1, 114.1, 22.5, "Asia", 0, 0), (2, -74.0, 40.7, "Americas", -20, -15),
+    (3, -71.0, 42.0, "Americas", 18, -13), (4, 56.5, 26.5, "Middle East", 0, 0),
     (5, 37.8, 14.7, "Africa", 0, 0), (6, -66.9, 10.5, "Americas", 0, 0),
-    (7, 34.5, 31.5, "Middle East", 0, 0), (8, 36.4, 45.3, "Europe", 0, 0),
+    (7, 34.5, 31.5, "Middle East", -15, 18), (8, 36.4, 45.3, "Europe", 17, -15),
     (9, 13.4, 52.5, "Europe", 14, -10), (10, 4.3, 52.1, "Europe", -14, -10),
-    (11, 86.0, 19.8, "Asia", 0, 0), (12, -76.0, 39.0, "Americas", -16, 10),
+    (11, 86.0, 19.8, "Asia", 0, 0), (12, -76.0, 39.0, "Americas", -20, 13),
     (13, -0.1, 51.5, "Europe", -14, 10), (14, 130.7, 32.8, "Asia", 0, 0),
-    (15, 7.7, 45.1, "Europe", 12, 10), (16, -73.0, 41.5, "Americas", 14, 12),
+    (15, 7.7, 45.1, "Europe", -7, 13), (16, -73.0, 41.5, "Americas", 18, 15),
 ]
 
 DATECHECK = ("Left out on purpose because they broke before 19 Nov: US strikes "
@@ -364,6 +390,9 @@ def caption(x, y, w, s):
 def scene_summit(x, y, w, h):
     rect(x, y, w, h, (232, 214, 176))
     rect(x, y, w, 14, (196, 164, 120))
+    # Shenzhen skyline behind the flags
+    for bx0, bh in ((2, 16), (60, 22), (130, 14), (200, 20)):
+        rect(x + bx0, y + 62 - bh, 22, bh, (148, 116, 76))
     # three flags on poles above the table
     fx = [x + 22, x + 96, x + 170]
     stripes(fx[0], y + 18, 46, 26, (178, 34, 52), WHITE)
@@ -385,6 +414,9 @@ def scene_summit(x, y, w, h):
         circle(cx0, y + 52, 10, (226, 190, 160))
         poly([(cx0 - 18, y + 78), (cx0 + 18, y + 78),
               (cx0 + 10, y + 60), (cx0 - 10, y + 60)], (52, 52, 52))
+    # name cards on the table, in the gaps between the three figures
+    for card_x in (x + 71, x + 143):
+        rect(card_x, y + 68, 16, 7, WHITE)
     caption(x, y + h - 13, w, "SHENZHEN - FIRST TRILATERAL SUMMIT")
 
 def scene_gta(x, y, w, h):
@@ -394,6 +426,13 @@ def scene_gta(x, y, w, h):
     for sx0, sy0 in ((x + 20, y + 8), (x + 210, y + 14), (x + 120, y + 5),
                      (x + 60, y + 20), (x + 180, y + 26)):
         circle(sx0, sy0, 1, WHITE)
+    # full moon and two palm silhouettes
+    circle(x + 198, y + 10, 6, (250, 240, 200))
+    for px0, sgn in ((x + 8, 1), (x + 227, -1)):
+        line(px0, y + 76, px0 + 4 * sgn, y + 52, (38, 28, 52), 2)
+        line(px0 + 4 * sgn, y + 52, px0 - 8 * sgn, y + 46, (38, 28, 52), 2)
+        line(px0 + 4 * sgn, y + 52, px0 + 14 * sgn, y + 46, (38, 28, 52), 2)
+        line(px0 + 4 * sgn, y + 52, px0 + 4 * sgn, y + 44, (38, 28, 52), 2)
     # skyline with lit windows
     base = y + h - 13
     bx = x
@@ -414,6 +453,9 @@ def scene_gta(x, y, w, h):
 
 def scene_ipo(x, y, w, h):
     rect(x, y, w, h, (16, 28, 54))
+    # faint gridlines
+    for gy in (y + 20, y + 36, y + 52):
+        rect(x + 8, gy, w - 16, 1, (40, 55, 85))
     # candlesticks
     cx = x + 18
     for i, (up, ch) in enumerate(((1, 26), (1, 34), (0, 20), (1, 40), (1, 46))):
@@ -422,8 +464,12 @@ def scene_ipo(x, y, w, h):
         vline(cx + 5, top - 6, ch + 12, col)
         rect(cx, top, 11, ch, col)
         cx += 26
+    # volume bars under the candles
+    for i, vh in enumerate((6, 10, 5, 12, 14)):
+        rect(x + 18 + i * 26, y + 74 - vh, 11, vh, (60, 90, 130))
     line(x + 14, y + 62, x + 150, y + 22, GOLD, 2)
-    line(x + 150, y + 22, x + 168, y + 30, GOLD, 2)
+    line(x + 150, y + 22, x + 185, y + 18, GOLD, 2)
+    line(x + 185, y + 18, x + 208, y + 28, GOLD, 2)
     text(FONT_KICK, "$107.3BN", x + 148, y + 16, GOLD)
     caption(x, y + h - 13, w, "NASDAQ - ANT - RECORD DEBUT")
 
@@ -431,6 +477,27 @@ def scene_hormuz(x, y, w, h):
     rect(x, y, w, h - 34, (214, 228, 232))
     rect(x, y + h - 47, w, 34, (36, 98, 140))
     rect(x, y + h - 47, w, 3, (20, 70, 110))
+    # clouds and sun
+    circle(x + 36, y + 12, 6, WHITE)
+    circle(x + 46, y + 10, 7, WHITE)
+    circle(x + 56, y + 13, 5, WHITE)
+    circle(x + 128, y + 9, 5, WHITE)
+    circle(x + 136, y + 7, 6, WHITE)
+    circle(x + 210, y + 12, 7, (250, 210, 90))
+    # pale haze band on the horizon, gulls above the sea
+    rect(x, y + 34, w, 4, (228, 238, 240))
+    line(x + 90, y + 20, x + 94, y + 17, (90, 90, 90), 1)
+    line(x + 94, y + 17, x + 98, y + 20, (90, 90, 90), 1)
+    line(x + 150, y + 22, x + 154, y + 19, (90, 90, 90), 1)
+    line(x + 154, y + 19, x + 158, y + 22, (90, 90, 90), 1)
+    # distant vessel on the horizon, behind the main tanker
+    rect(x + 8, y + 44, 60, 8, (70, 90, 110))
+    rect(x + 52, y + 38, 10, 6, (220, 225, 230))
+    rect(x + 16, y + 38, 12, 6, (178, 34, 52))
+    rect(x + 30, y + 38, 12, 6, (46, 125, 60))
+    # wave dashes on the sea
+    for wx0 in range(x + 10, x + 220, 34):
+        rect(wx0, y + 48, 14, 1, (200, 225, 235))
     # tanker: hull, containers, bridge tower
     rect(x + 18, y + 52, 150, 16, (40, 40, 44))
     tri(x + 168, y + 52, x + 186, y + 58, x + 168, y + 68, (40, 40, 44))
@@ -439,9 +506,11 @@ def scene_hormuz(x, y, w, h):
         rect(x + 26 + i * 30, y + 36, 26, 16, c)
     rect(x + 146, y + 28, 16, 24, WHITE)
     rect(x + 150, y + 32, 8, 4, NAVY)
+    # dark hull reflection on the water under the tanker
+    rect(x + 18, y + 68, 150, 3, (20, 70, 110))
     # mine with spikes, dashed route
     for mx0 in range(x + 30, x + 200, 14):
-        px(mx0, y + 74, (255, 255, 255))
+        rect(mx0, y + 74, 3, 1, WHITE)
     circle(x + 198, y + 70, 6, (30, 30, 30))
     for ang in range(0, 360, 45):
         import math
@@ -454,6 +523,7 @@ def scene_hormuz(x, y, w, h):
 # --- small illustrations (235 x 44) ---
 def scene_ethiopia(x, y, w, h):
     rect(x, y, w, h, (214, 228, 232))
+    circle(x + 205, y + 9, 6, (232, 180, 60))
     tri(x, y + h, x + 70, y + 6, x + 140, y + h, (120, 100, 80))
     tri(x + 90, y + h, x + 160, y + 14, x + 235, y + h, (90, 78, 62))
     rect(x + 12, y + 8, 30, 18, (0, 122, 60))
@@ -463,10 +533,24 @@ def scene_ethiopia(x, y, w, h):
 
 def scene_venezuela(x, y, w, h):
     rect(x, y, w, h, (232, 214, 176))
-    stripes(x + 30, y + 8, 52, 22, (178, 34, 52), WHITE)
-    rect(x + 30, y + 8, 22, 11, NAVY)
-    bands3(x + 150, y + 8, 52, 22, ((252, 210, 0), (0, 57, 166), (213, 0, 50)))
-    rect(x, y + 34, w, 4, (122, 82, 52))
+    # Caracas skyline behind the flags, with lit windows
+    for bx0, bh in ((2, 13), (90, 17), (120, 11), (208, 15)):
+        rect(x + bx0, y + 33 - bh, 22, bh, (168, 138, 100))
+        rect(x + bx0 + 4, y + 36 - bh, 3, 4, (90, 70, 50))
+        rect(x + bx0 + 13, y + 36 - bh, 3, 4, (90, 70, 50))
+    circle(x + 222, y + 8, 5, (232, 180, 60))
+    # flagpoles
+    vline(x + 28, y + 6, 23, (90, 70, 50))
+    vline(x + 148, y + 6, 23, (90, 70, 50))
+    stripes(x + 30, y + 6, 52, 22, (178, 34, 52), WHITE)
+    rect(x + 30, y + 6, 22, 11, NAVY)
+    bands3(x + 150, y + 6, 52, 22, ((252, 210, 0), (0, 57, 166), (213, 0, 50)))
+    # signed document on the desk, with a red seal
+    rect(x + 104, y + 21, 28, 8, WHITE)
+    rect(x + 108, y + 23, 20, 1, GREY)
+    rect(x + 108, y + 26, 20, 1, GREY)
+    circle(x + 126, y + 25, 2, RED)
+    rect(x, y + 29, w, 4, (122, 82, 52))
 
 def scene_gaza(x, y, w, h):
     rect(x, y, w, h, (214, 214, 200))
@@ -474,20 +558,26 @@ def scene_gaza(x, y, w, h):
         rect(x + bx0, y + h - bh, 34, bh, (140, 134, 120))
         for wy in range(y + h - bh + 4, y + h - 3, 8):
             rect(x + bx0 + 5, wy, 5, 5, (90, 86, 76))
-    rect(x + 120, y + h - 12, 60, 10, (52, 58, 52))
-    line(x + 170, y + h - 18, x + 196, y + h - 24, (52, 58, 52), 3)
+    # the Yellow Line on the ground
+    rect(x, y + 31, w, 2, (232, 180, 60))
+    rect(x + 120, y + h - 20, 60, 10, (52, 58, 52))
+    line(x + 170, y + h - 26, x + 196, y + h - 32, (52, 58, 52), 3)
     circle(x + 100, y + 10, 8, (160, 160, 160))
     circle(x + 112, y + 6, 6, (170, 170, 170))
+    circle(x + 152, y + 9, 6, (165, 165, 165))
+    circle(x + 162, y + 5, 4, (175, 175, 175))
 
 def scene_crimea(x, y, w, h):
     rect(x, y, w, h - 14, (214, 228, 232))
-    rect(x, y + h - 14, w, 14, (36, 98, 140))
+    rect(x, y + 23, w, 10, (36, 98, 140))
+    for wx0 in range(x + 8, x + 220, 26):
+        rect(wx0, y + 30, 12, 1, WHITE)
     rect(x, y + 22, 96, 6, (90, 90, 90))
     rect(x + 140, y + 22, 95, 6, (90, 90, 90))
-    poly([(x + 96, y + 22), (x + 118, y + 40), (x + 124, y + 40),
+    poly([(x + 96, y + 22), (x + 114, y + 31), (x + 120, y + 31),
           (x + 106, y + 22)], (70, 70, 70))
-    vline(x + 40, y + 28, 8, (70, 70, 70))
-    vline(x + 180, y + 28, 8, (70, 70, 70))
+    vline(x + 40, y + 28, 5, (70, 70, 70))
+    vline(x + 180, y + 28, 5, (70, 70, 70))
     circle(x + 116, y + 12, 7, (150, 150, 150))
     circle(x + 126, y + 8, 5, (165, 165, 165))
 
@@ -495,8 +585,8 @@ def scene_berlin(x, y, w, h):
     rect(x, y, w, h, (30, 60, 120))
     rect(x + 60, y + 8, 115, 8, (210, 200, 170))
     for cx0 in range(x + 66, x + 176, 18):
-        rect(cx0, y + 16, 7, 24, (210, 200, 170))
-    rect(x + 60, y + 40, 115, 4, (210, 200, 170))
+        rect(cx0, y + 16, 7, 15, (210, 200, 170))
+    rect(x + 60, y + 30, 115, 3, (210, 200, 170))
     for i in range(12):
         import math
         a = math.radians(i * 30)
@@ -506,22 +596,32 @@ def scene_berlin(x, y, w, h):
 def scene_court(x, y, w, h):
     rect(x, y, w, h, (232, 226, 210))
     tri(x + 78, y + 4, x + 157, y + 4, x + 117, y + 16, (200, 188, 160))
+    circle(x + 117, y + 10, 2, (232, 226, 210))
     for cx0 in range(x + 84, x + 152, 17):
-        rect(cx0, y + 16, 7, 24, WHITE)
-    vline(x + 117, y + 8, 30, (90, 70, 50))
+        rect(cx0, y + 16, 7, 15, (215, 203, 175))
+        rect(cx0, y + 16, 7, 2, (200, 188, 160))
+        rect(cx0, y + 29, 7, 2, (200, 188, 160))
+    rect(x + 116, y + 8, 2, 23, (90, 70, 50))
     line(x + 96, y + 14, x + 138, y + 14, (90, 70, 50), 2)
-    tri(x + 90, y + 14, x + 102, y + 14, x + 96, y + 22, (176, 132, 28))
-    tri(x + 132, y + 14, x + 144, y + 14, x + 138, y + 22, (176, 132, 28))
+    tri(x + 88, y + 14, x + 104, y + 14, x + 96, y + 24, (176, 132, 28))
+    tri(x + 130, y + 14, x + 146, y + 14, x + 138, y + 24, (176, 132, 28))
+    rect(x + 60, y + 31, 114, 2, (190, 178, 150))
 
 def scene_cyclone(x, y, w, h):
     rect(x, y, w, h, (190, 214, 228))
-    for r in (20, 15, 10, 5):
-        circle(x + 60, y + 22, r, WHITE, fill=False)
-    circle(x + 60, y + 22, 3, (36, 98, 140))
-    for lx0 in range(x + 130, x + 230, 12):
-        line(lx0, y + 6, lx0 - 4, y + 18, (90, 130, 170), 1)
-    rect(x + 130, y + 32, 105, 12, (120, 150, 90))
-    rect(x + 130, y + 32, 105, 3, (233, 221, 192))
+    # storm cloud band over the rain cell
+    rect(x + 120, y, 115, 5, (150, 180, 205))
+    # cyclone swirl in storm blue, white eye
+    for r in (15, 11, 7):
+        circle(x + 60, y + 17, r, (36, 98, 140), fill=False)
+    circle(x + 60, y + 17, 3, WHITE)
+    # denser, darker rain over the coast
+    for lx0 in range(x + 130, x + 230, 10):
+        line(lx0, y + 5, lx0 - 5, y + 19, (50, 100, 150), 1)
+    rect(x, y + 30, 90, 3, (120, 150, 90))
+    rect(x + 130, y + 25, 105, 8, (120, 150, 90))
+    rect(x + 130, y + 25, 105, 2, (233, 221, 192))
+    rect(x + 130, y + 31, 105, 2, (90, 120, 70))
 
 def scene_vangogh(x, y, w, h):
     rect(x, y, w, h, (36, 58, 120))
@@ -535,8 +635,8 @@ def scene_vangogh(x, y, w, h):
 
 def scene_bitcoin(x, y, w, h):
     rect(x, y, w, h, (16, 28, 54))
-    circle(x + 50, y + 22, 17, GOLD)
-    text(FONT_HEAD, "B", x + 43, y + 29, NAVY)
+    circle(x + 50, y + 19, 13, GOLD)
+    text(FONT_HEAD, "B", x + 43, y + 27, NAVY)
     line(x + 90, y + 10, x + 130, y + 26, (220, 70, 60), 3)
     line(x + 130, y + 26, x + 170, y + 14, (220, 70, 60), 3)
     tri(x + 170, y + 8, x + 170, y + 22, x + 182, y + 15, (220, 70, 60))
@@ -546,37 +646,51 @@ def scene_quake(x, y, w, h):
     rect(x, y, w, h, (214, 214, 200))
     for bx0, bh in ((16, 24), (52, 30), (150, 26), (186, 20)):
         rect(x + bx0, y + h - bh, 30, bh, (140, 134, 120))
-    line(x, y + h - 6, x + 60, y + h - 14, (90, 60, 40), 2)
-    line(x + 60, y + h - 14, x + 110, y + h - 4, (90, 60, 40), 2)
-    line(x + 110, y + h - 4, x + 170, y + h - 12, (90, 60, 40), 2)
-    line(x + 170, y + h - 12, x + 235, y + h - 6, (90, 60, 40), 2)
+    line(x, y + h - 16, x + 60, y + h - 24, (90, 60, 40), 2)
+    line(x + 60, y + h - 24, x + 110, y + h - 14, (90, 60, 40), 2)
+    line(x + 110, y + h - 14, x + 170, y + h - 22, (90, 60, 40), 2)
+    line(x + 170, y + h - 22, x + 235, y + h - 16, (90, 60, 40), 2)
     line(x + 96, y + 8, x + 110, y + 20, RED, 2)
     line(x + 110, y + 20, x + 124, y + 6, RED, 2)
     line(x + 124, y + 6, x + 138, y + 18, RED, 2)
 
 def scene_alcaraz(x, y, w, h):
     rect(x, y, w, h, (46, 125, 60))
-    rect(x + 20, y + 6, 195, 32, (30, 90, 160))
+    rect(x + 20, y + 6, 195, 25, (30, 90, 160))
     hline(x + 20, y + 22, 195, WHITE)
-    vline(x + 117, y + 6, 32, WHITE)
-    line(x + 20, y + 6, x + 215, y + 38, WHITE, 1)
-    line(x + 215, y + 6, x + 20, y + 38, WHITE, 1)
+    vline(x + 117, y + 6, 25, WHITE)
+    line(x + 20, y + 6, x + 215, y + 31, WHITE, 1)
+    line(x + 215, y + 6, x + 20, y + 31, WHITE, 1)
     circle(x + 200, y + 14, 5, (220, 230, 60))
 
 def scene_nvidia(x, y, w, h):
     rect(x, y, w, h, (16, 28, 54))
-    rect(x + 30, y + 10, 40, 26, (30, 30, 34))
+    rect(x + 30, y + 8, 40, 24, (30, 30, 34))
     for px0 in range(x + 36, x + 66, 8):
-        vline(px0, y + 6, 4, GOLD)
-        vline(px0, y + 36, 4, GOLD)
+        vline(px0, y + 4, 4, GOLD)
+        vline(px0, y + 28, 4, GOLD)
     text(FONT_KICK, "NVDA", x + 78, y + 30, (46, 180, 90))
     line(x + 150, y + 8, x + 185, y + 26, (220, 70, 60), 3)
-    tri(x + 185, y + 20, x + 185, y + 34, x + 197, y + 27, (220, 70, 60))
+    tri(x + 185, y + 20, x + 185, y + 32, x + 197, y + 26, (220, 70, 60))
 
 SCENES_BIG = [scene_summit, scene_gta, scene_ipo, scene_hormuz]
 SCENES_SMALL = [scene_ethiopia, scene_venezuela, scene_gaza, scene_crimea,
                 scene_berlin, scene_court, scene_cyclone, scene_vangogh,
                 scene_bitcoin, scene_quake, scene_alcaraz, scene_nvidia]
+
+# caption bars for the 12 small panels (same NAVY device as the hero bars)
+GRID_CAPTIONS = [
+    "BADME - BORDER CLASHES", "CARACAS - SURPRISE VISIT",
+    "YELLOW LINE - CENTRAL GAZA", "KERCH STRAIT - THIRD ATTACK",
+    "BERLIN - COALITION", "THE HAGUE - ICJ RULING",
+    "BAY OF BENGAL - LANDFALL 20 NOV", "SOTHEBY'S - RECORD SALE",
+    "CRYPTO - DOWN 2.4%", "KUMAMOTO - 02:22",
+    "ATP FINALS - SEMIS", "WALL ST - OUTLOOK CUT",
+]
+
+def grid_caption(x, y, w, s):
+    rect(x, y + 33, w, 10, NAVY)
+    text(FONT_BODYS3, s, x + 6, y + 41, WHITE)
 
 # --- world map (rough continent outlines, lon/lat pairs) ---
 NORTH_AM = [(-168, 66), (-140, 70), (-125, 72), (-110, 73), (-95, 80),
@@ -622,7 +736,7 @@ def draw_map(x0, y0, w, h):
     for num, lon, lat, region, dx, dy in PINS:
         px0, py0 = conv(lon, lat)
         if dx or dy:
-            circle(px0, py0, 3, REG[region])
+            circle(px0, py0, 2, REG[region])
             line(px0, py0, px0 + dx, py0 + dy, REG[region], 1)
             disc_num(px0 + dx, py0 + dy, 7, num, REG[region],
                      f=FONT_BODYS3, dy=4)
@@ -645,6 +759,10 @@ def draw_legend(x, y):
 # --- layout ---
 COLX = [24, 271, 518, 765]
 CW = 235
+# S1b: row height 135 (deck lh 12) for all three grid rows.
+# Prototype validated row 0 first (render 4e58d40a, deck gaps 8-11px,
+# briefs 5px above the date bar); promoted 2026-11-20.
+GRID_ROW_H = [135, 135, 135]
 
 def kicker_row(x, y, num, region, category, status, disc_r, col_w):
     disc_num(x + disc_r, y - 4, disc_r, num, REG[region])
@@ -652,7 +770,10 @@ def kicker_row(x, y, num, region, category, status, disc_r, col_w):
          x + 2 * disc_r + 6, y, REG[region])
     stag = "CLAIM" if status == "CLAIM" else "CONFIRMED"
     scol = RED if status == "CLAIM" else GREY
-    text(FONT_BODYS3, stag, x + col_w - text_w(FONT_BODYS3, stag), y, scol)
+    tw = text_w(FONT_BODYS3, stag)
+    bx = x + col_w - tw - 4
+    outline(bx, y - 11, tw + 4, 13, scol)
+    text(FONT_BODYS3, stag, bx + 2, y, scol)
 
 def draw():
     rect(0, 0, W, H, PAPER)
@@ -689,23 +810,27 @@ def draw():
     for i, st in enumerate(SECOND):
         num, region, cat, status, _, head, summ, src = st
         x = COLX[i % 4]
-        y0 = 392 + (i // 4) * 136
+        rh = GRID_ROW_H[i // 4]
+        y0 = 392 + sum(GRID_ROW_H[:i // 4])
         SCENES_SMALL[i](x, y0, CW, 43)
+        grid_caption(x, y0, CW, GRID_CAPTIONS[i])
         kicker_row(x, y0 + 59, num, region, cat, status, 8, CW)
         para(FONT_HEAD2, head, x, y0 + 79, CW, INK, 20)
-        para(FONT_BODYS2, summ, x, y0 + 112, CW, GREY, 13)
-    # bottom: map + also-on list
-    text(FONT_KICK, "WHERE IT HAPPENED", 24, 804, RED)
-    draw_map(24, 812, 306, 112)
-    draw_legend(24, 936)
-    text(FONT_KICK, "ALSO ON THURSDAY 19 NOVEMBER", 342, 804, RED)
+        para(FONT_BODYS2, summ, x, y0 + 112, CW, GREY,
+             12 if rh == 135 else 13)
+    # bottom: map + also-on list (positions follow the grid total)
+    bottom_y = 392 + sum(GRID_ROW_H)
+    text(FONT_KICK, "WHERE IT HAPPENED", 24, bottom_y + 4, RED)
+    draw_map(24, bottom_y + 12, 306, 112)
+    draw_legend(24, bottom_y + 136)
+    text(FONT_KICK, "ALSO ON THURSDAY 19 NOVEMBER", 342, bottom_y + 4, RED)
     for j, (num, line) in enumerate(ALSO):
         col = j // 13
         row = j % 13
         ax = 342 + col * 334
-        ay = 814 + row * 11
-        disc_num(ax + 6, ay - 3, 6, num, REG["Global"])
-        text(FONT_BODYS3, line, ax + 16, ay, INK)
+        ay = bottom_y + 16 + row * 11
+        disc_num(ax + 6, ay - 3, 6, num, REG[ALSO_REGIONS[j]])
+        text(FONT_BODYS4, line, ax + 16, ay, INK)
     # date check bar
     rect(24, 954, 976, 34, CREAM)
     rect(24, 954, 976, 1, LGREY)

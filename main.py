@@ -247,7 +247,7 @@ BIG = [
      "Midnight rollout after 13 years; first reviews score 99 out of 100.",
      "Le Monde"),
     (3, "Americas", "AI IPO", "CONFIRMED", "BUSINESS TIMES",
-     "Anthropic's record $107.3bn IPO debuts",
+     "Anthropic's record $81.3bn IPO debuts",
      "Largest listing ever tops SpaceX; shares trade on Nasdaq as ANT.",
      "Business Times"),
     (4, "Middle East", "HORMUZ", "CLAIM", "TEHRAN",
@@ -470,7 +470,7 @@ def scene_ipo(x, y, w, h):
     line(x + 14, y + 62, x + 150, y + 22, GOLD, 2)
     line(x + 150, y + 22, x + 185, y + 18, GOLD, 2)
     line(x + 185, y + 18, x + 208, y + 28, GOLD, 2)
-    text(FONT_KICK, "$107.3BN", x + 148, y + 16, GOLD)
+    text(FONT_KICK, "$81.3BN", x + 148, y + 16, GOLD)
     caption(x, y + h - 13, w, "NASDAQ - ANT - RECORD DEBUT")
 
 def scene_hormuz(x, y, w, h):

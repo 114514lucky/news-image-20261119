@@ -6,7 +6,7 @@
 
 One image that sums up the world news of Thursday 19 November 2026:
 the first-ever Trump-Xi-Putin trilateral summit in Shenzhen, the
-worldwide launch of GTA VI, Anthropic's record $107.3bn IPO debut,
+worldwide launch of GTA VI, Anthropic's record $81.3bn IPO debut,
 Iran's claim that three tankers hit mines off Hormuz, growing fears
 of an Ethiopia-Eritrea war, and the US-Venezuela military pact.
 Plus a ticker with the World Court's Rohingya ruling, a record
@@ -45,7 +45,7 @@ Every story was first reported on 19 November 2026:
 - GTA VI launches worldwide at midnight local time; first reviews
   score 99 out of 100, 2.3 million watching on Twitch — Le Monde,
   19 Nov 2026; The Manila Times, 19 Nov 2026.
-- Anthropic's $107.3bn IPO and private placement debuts on Nasdaq
+- Anthropic's $81.3bn IPO and $26bn private placement debut on Nasdaq
   as ANT, the largest listing ever, topping SpaceX — The Business
   Times, 19 Nov 2026; Business Standard, 19 Nov 2026.
 - Iran says three oil tankers caught fire after hitting mines east
